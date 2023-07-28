@@ -42,6 +42,7 @@ print('Encoding complete')
 # Use webcam to look for encoded faces
 cap = cv2.VideoCapture(0)
 
+
 while True:
     success, img = cap.read()
     imgSmall = cv2.resize(img,(0,0),None,0.25,0.25) # Make image smaller to increase efficiency

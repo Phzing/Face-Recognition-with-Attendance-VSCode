@@ -1,4 +1,3 @@
-#!/bin/zsh
 python3 -m venv myenv
 cd myenv
 source bin/activate
@@ -9,4 +8,3 @@ pip install face_recognition
 pip install numpy
 pip install opencv-python
 cd ..
-

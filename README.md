@@ -28,5 +28,5 @@ file along with the time it was seen. Also note that the names used to identify 
 real time are taken from the filenames in the 'facesToLookFor' folder, so these images 
 should be named with the names of the people that we would like to look for. 
 
-Thanks for trying my project, and have fun!
+Thanks for trying my project!
 
